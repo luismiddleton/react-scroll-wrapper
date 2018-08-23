@@ -45,5 +45,5 @@ import Scroll from 'path/to/component'
 ```css
     position: fixed,
     height: 5px,
-    background-color: #e74c3c
+    backgroundColor: #e74c3c
 ```
