@@ -1,6 +1,6 @@
 # react-scroll-wrapper
 
-Made using the create-react-app. Therefore, the following you'll need to make sure the following prequisites are installed or located in your `package.json` file.
+Made using the create-react-app. Therefore, you'll need to make sure the following prequisites are installed or located in your `package.json` file.
 
 ### Prequisites
 - "react": "^16.4.2",
