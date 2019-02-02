@@ -31,6 +31,9 @@ import Scroll from 'path/to/component'
 
 ```
 
+### Example
+https://codesandbox.io/s/x9r38ml0lp
+
 ### Props
 
 | Prop | Type | Description | Default |
